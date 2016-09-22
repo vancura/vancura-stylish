@@ -1,0 +1,25 @@
+/**
+name: Outlook SF
+scope: domain outlook.office.com
+*/
+
+.ms-font-weight-regular,
+.ms-fwt-r,
+.ms-font-weight-regular-hover:hover,
+.ms-font-weight-regular-before:before,
+.ms-fwt-r-h:hover,
+.ms-fwt-r-b:before,
+.ms-font-weight-semilight,
+.ms-fwt-sl,
+.ms-font-weight-semilight-hover:hover,
+.ms-font-weight-semilight-before:before,
+.ms-fwt-sl-h:hover,
+.ms-fwt-sl-b:before,
+.ms-font-xxl,
+.ms-font-xl,
+.ms-font-l,
+.ms-font-m,
+.ms-font-s,
+.o365cs-nav-header16 .o365cs-nav-brandingText {
+    font-family: "SF UI Text";
+}

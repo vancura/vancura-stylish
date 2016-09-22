@@ -1,0 +1,45 @@
+/**
+name: Trello SF + Columns
+scope: domain trello.com
+*/
+
+body,
+button,
+html,
+input,
+select,
+textarea {
+    font: 9pt "SF UI Text";
+}
+
+.card-label {
+    text-shadow: none;
+}
+
+.card-label.mod-card-front {
+    width: auto;
+    height: 14px;
+    padding: 0 5px;
+    line-height: 14px;
+    font-size: 9px;
+    text-transform: uppercase;
+    margin: 0 1px 0 0;
+}
+
+#board {
+    overflow-x: hidden;
+    overflow-y: auto;
+    display: flex;
+    align-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.list-wrapper {
+    margin: 0 0 10px 10px;
+    height: auto;
+}
+
+#board .js-list-content {
+    max-height: 40vh;
+}

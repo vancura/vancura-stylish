@@ -1,0 +1,9 @@
+/**
+name: Ace Editor Input Sans
+scope: global
+*/
+
+.ace_editor {
+    font-family: "Input Sans Narrow";
+    font-size: 10px;
+}

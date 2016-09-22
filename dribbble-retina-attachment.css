@@ -1,0 +1,8 @@
+/**
+name: Dribbble retina attachment
+scope: domain dribbble.com
+*/
+
+#viewer-img img {
+    zoom: 0.5;
+}

@@ -1,0 +1,19 @@
+/**
+name: Pinboard: Hide cached page header
+scope: url starting with https://pinboard.in/cached
+*/
+
+body {
+    padding: 0;
+    background: black !important;
+    color: #333;
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    color: #888;
+    text-decoration: none;
+}

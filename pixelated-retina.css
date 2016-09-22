@@ -1,0 +1,9 @@
+/**
+name: Pixelated retina
+scope: global
+*/
+
+img {
+    image-rendering: pixelated;
+    image-rendering: -webkit-crisp-edges;
+}
