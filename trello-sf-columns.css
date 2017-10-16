@@ -24,6 +24,7 @@ textarea {
     font-size: 9px;
     text-transform: uppercase;
     margin: 0 1px 0 0;
+    max-width: none;
 }
 
 #board {
