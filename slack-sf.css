@@ -7,8 +7,16 @@ body {
     font-family: "SF UI Text" !important;
 }
 
+ts-message {
+	margin-bottom: 10px;
+}
+
 body,
 ts-message {
 	font-size: 14px;
+	line-height: 16px;
 }
 
+div.message_content_header {
+	margin-bottom: 4px;
+}
