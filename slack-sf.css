@@ -6,3 +6,9 @@ scope: domain slack.com
 body {
     font-family: "SF UI Text" !important;
 }
+
+body,
+ts-message {
+	font-size: 14px;
+}
+
