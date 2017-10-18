@@ -1,0 +1,8 @@
+/**
+name: Slack SF
+scope: domain slack.com
+*/
+
+body {
+    font-family: "SF UI Text" !important;
+}
