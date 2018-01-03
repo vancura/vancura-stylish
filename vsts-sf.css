@@ -1,0 +1,13 @@
+/**
+name: VSTS SF
+scope: domain devdiv.visualstudio.com
+*/
+
+body,
+input, button, textarea, select,
+.menu.sub-menu,
+.vss-Hub.ms-Fabric,
+.body-font,
+.toolbar {
+    font-family: "SF UI Text";
+}
