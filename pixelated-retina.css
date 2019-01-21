@@ -6,4 +6,5 @@ scope: global
 img {
     image-rendering: pixelated;
     image-rendering: -webkit-crisp-edges;
+    image-rendering: -moz-crisp-edges;
 }
